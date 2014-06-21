@@ -3,7 +3,7 @@
 #include <limits>
 #include <cstdio>
 /*
-  taken from numerical recipeis 2007 third edition
+  taken from numerical recipes 2007 third edition
   modified by thorfinn@binf.ku.dk 30 aug 2013
  */
 
